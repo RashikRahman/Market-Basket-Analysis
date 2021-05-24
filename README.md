@@ -1,6 +1,6 @@
 # Market Basket Analysis
  
-![](https://datamathstat.files.wordpress.com/2018/02/untitled.png)
+![](./snippets/1.png)
 
 ## What's Market Basket Analysis(MBA)
 
